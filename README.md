@@ -33,6 +33,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [Pi](https://github.com/earendil-works/pi) - Agent toolkit with a unified model API, an agent loop, a TUI and a coding agent CLI.
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - Command-line agent adapted for the Qwen3-Coder models.
 - [Warp](https://www.warp.dev/code) - Terminal and code editor with agentic workflows across several models.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge and release-readiness boundaries.
 
 ## IDE and Editor Agents
 
