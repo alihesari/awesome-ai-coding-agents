@@ -29,6 +29,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open source terminal agent for Gemini models, with built-in tools and MCP support.
 - [GitHub Copilot CLI](https://github.com/features/copilot/cli) - Copilot agent for the terminal, with access to GitHub issues and pull requests.
 - [Goose](https://goose-docs.ai/) - Open source extensible agent from Block that installs, executes, edits and tests with any model.
+- [molt](https://github.com/solvyxtech/molt) - Open source terminal and desktop coding agent that verifies completion against `.molt/done.yml` on disk and writes receipts for accepts and refusals.
 - [OpenCode](https://opencode.ai) - Open source terminal agent with a client-server design and a shareable session model.
 - [Pi](https://github.com/earendil-works/pi) - Agent toolkit with a unified model API, an agent loop, a TUI and a coding agent CLI.
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - Command-line agent adapted for the Qwen3-Coder models.
