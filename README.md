@@ -123,6 +123,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - Approval and human-in-the-loop layer for agents working on real codebases.
 - [Serena](https://github.com/oraios/serena) - MCP toolkit that gives agents semantic code retrieval and symbol-level editing.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub toolkit for spec-driven development with coding agents.
+- [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for queuing, reviewing and orchestrating coding agent tasks.
 
 ## Benchmarks and Leaderboards
