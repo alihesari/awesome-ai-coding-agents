@@ -124,6 +124,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [Serena](https://github.com/oraios/serena) - MCP toolkit that gives agents semantic code retrieval and symbol-level editing.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub toolkit for spec-driven development with coding agents.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for queuing, reviewing and orchestrating coding agent tasks.
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## Benchmarks and Leaderboards
 
