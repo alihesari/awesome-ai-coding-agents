@@ -88,6 +88,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve) - Evolutionary coding agent that improves programs against a scoring function.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Open platform for agents that write code, run commands and browse the web.
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal agent built for large multi-file tasks, with a diff sandbox and version control.
+- [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions that outlive the client, full-text search across conversations, an IDE panel and an installable PWA.
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) - Research agent from Princeton that fixes GitHub issues through an agent-computer interface.
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted coding assistant with completions, chat and repository context.
 
