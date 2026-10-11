@@ -63,6 +63,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [Jules](https://jules.google) - Google's asynchronous agent that clones a repository into a cloud VM and proposes changes.
 - [Open SWE](https://github.com/langchain-ai/open-swe) - Open source asynchronous coding agent from LangChain that plans and executes tasks on a repository.
 - [OpenHands Cloud](https://www.openhands.dev/) - Hosted version of OpenHands that runs agents against your repositories.
+- [Tale](https://tale.dev/) - Shared workspace for assigning coding-agent tasks, running harnesses in sandboxes, and reviewing deliverables.
 - [Tembo](https://www.tembo.io) - Cloud platform for running third-party coding agents in shareable, isolated environments.
 
 ## Code Review Agents
