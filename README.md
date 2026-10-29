@@ -112,6 +112,7 @@ Every entry links to the official site or the canonical repository. This space m
 
 ## Tooling and Sandboxes
 
+- [AppWizzy](https://appwizzy.com/) - Hosted Ubuntu VMs for Codex Desktop and CLI, with browser access, SSH, and persistent project files.
 - [ccmanager](https://github.com/kbwo/ccmanager) - Session manager for running several coding agents across Git worktrees.
 - [Claude Code UI](https://github.com/siteboon/claudecodeui) - Web and mobile interface for driving Claude Code, Codex, Cursor CLI and OpenCode.
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Terminal manager for running multiple agents in parallel on isolated Git worktrees.
