@@ -121,6 +121,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [E2B](https://github.com/e2b-dev/E2B) - Cloud sandboxes for running code produced by agents.
 - [GitMCP](https://github.com/idosal/git-mcp) - Remote MCP server that turns any GitHub repository into a documentation source.
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - Approval and human-in-the-loop layer for agents working on real codebases.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Open-source policy checks and approvals for coding-agent tool calls, with coverage depending on host integration.
 - [Serena](https://github.com/oraios/serena) - MCP toolkit that gives agents semantic code retrieval and symbol-level editing.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub toolkit for spec-driven development with coding agents.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for queuing, reviewing and orchestrating coding agent tasks.
