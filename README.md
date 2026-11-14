@@ -36,6 +36,7 @@ Every entry links to the official site or the canonical repository. This space m
 
 ## IDE and Editor Agents
 
+- [Althar](https://github.com/AltharIDE/althar) - Desktop ADE that assigns requests to coding agents and routes their changes to another model for review.
 - [Antigravity](https://antigravity.google) - Google's agent-first development environment built around Gemini.
 - [Augment Code](https://www.augmentcode.com) - Editor agent with a context engine aimed at large codebases.
 - [avante.nvim](https://github.com/avante-corp/avante.nvim) - Neovim plugin that brings a Cursor-style AI editing flow to the editor.
