@@ -93,6 +93,7 @@ Every entry links to the official site or the canonical repository. This space m
 
 ## Agent Harnesses and SDKs
 
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Skill and CLI harness that makes coding agents state formal properties, run verification checks, and record review evidence before reporting work done.
 - [Agent Client Protocol](https://github.com/agentclientprotocol/agent-client-protocol) - Open protocol that lets any editor talk to any coding agent.
 - [Claude Agent SDK for Python](https://github.com/anthropics/claude-agent-sdk-python) - Python library for building agents on the Claude Code harness.
 - [Claude Agent SDK for TypeScript](https://github.com/anthropics/claude-agent-sdk-typescript) - TypeScript library for building agents on the Claude Code harness.
